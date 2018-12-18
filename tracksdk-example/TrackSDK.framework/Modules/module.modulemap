@@ -1,0 +1,6 @@
+framework module TrackSDK {
+  umbrella header "TrackSDK.h"
+
+  export *
+  module * { export * }
+}
